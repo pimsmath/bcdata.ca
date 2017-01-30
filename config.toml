@@ -1,4 +1,4 @@
-baseurl = "https://pimsmath.github.io/bcdata.github.io/"
+baseurl = "https://bcdata-colloquium.surge.sh/"
 languageCode = "en-us"
 title = "bcdata colloquium"
 # Enable comments by entering your Disqus shortname
