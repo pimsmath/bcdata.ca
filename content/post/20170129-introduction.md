@@ -1,11 +1,11 @@
 +++
 description = ""
-title = "bcdata Colloquium Introduction"
+title = "bcdata colloquium introduction"
 date = "2017-01-29T23:42:55-08:00"
 
 +++
 
-# 2017 BCData Colloquium 
+# 2017 bcdata colloquium 
 
 
 ## Schedule
